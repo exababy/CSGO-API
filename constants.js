@@ -28,11 +28,11 @@ export const LANGUAGES_URL = [
         folder: "en",
         url: getLanguageUrl("english"),
     },
-    {
-        language: "schinese",
-        folder: "zh-CN",
-        url: getLanguageUrl("schinese"),
-    },
+     {
+         language: "turkish",
+         folder: "tr",
+         url: getLanguageUrl("turkish"),
+     },
     // {
     //     language: "portuguese (Brazil)",
     //     folder: "pt-BR",
